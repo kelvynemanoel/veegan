@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="img/projeto_veegan-app-01.jpg" alt="Banner Veegan" width="100%">
-
   # 🥗 Veegan
   **Seu delivery de comida saudável, prático e vibrante!**
 
